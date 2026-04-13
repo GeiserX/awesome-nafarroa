@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <defs>
+    <clipPath id="r"><rect width="800" height="200" rx="16"/></clipPath>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/><stop offset="100%" stop-color="#14141f"/>
+    </linearGradient>
+    <filter id="b1"><feGaussianBlur stdDeviation="40"/></filter>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="800" height="200" fill="url(#bg)"/>
+    <ellipse cx="150" cy="180" rx="200" ry="120" fill="#D5232A" opacity="0.15" filter="url(#b1)"/>
+    <ellipse cx="650" cy="20" rx="200" ry="120" fill="#F1BF00" opacity="0.1" filter="url(#b1)"/>
+    <rect width="800" height="2" fill="#D5232A" opacity="0.6"/>
+    <text x="400" y="75" text-anchor="middle" font-family="system-ui,sans-serif" font-size="36" fill="#fff" font-weight="700" letter-spacing="1">awesome-nafarroa</text>
+    <rect x="310" y="86" width="180" height="2" rx="1" fill="#D5232A" opacity="0.5"/>
+    <text x="400" y="116" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="rgba(255,255,255,0.5)" font-weight="300" letter-spacing="3">SOFTWARE OPEN SOURCE PARA NAVARRA / NAFARROA</text>
+    <!-- Chains of Navarra: stylized chain links pattern -->
+    <g fill="#F1BF00" opacity="0.5" transform="translate(400,155)">
+      <g transform="translate(-60,0)"><rect x="-4" y="-3" width="8" height="6" rx="2" fill="none" stroke="#F1BF00" stroke-width="1.5"/></g>
+      <g transform="translate(-40,0)"><rect x="-4" y="-3" width="8" height="6" rx="2" fill="none" stroke="#F1BF00" stroke-width="1.5"/></g>
+      <g transform="translate(-20,0)"><rect x="-4" y="-3" width="8" height="6" rx="2" fill="none" stroke="#F1BF00" stroke-width="1.5"/></g>
+      <g transform="translate(0,0)"><circle cx="0" cy="0" r="3" fill="#F1BF00"/></g>
+      <g transform="translate(20,0)"><rect x="-4" y="-3" width="8" height="6" rx="2" fill="none" stroke="#F1BF00" stroke-width="1.5"/></g>
+      <g transform="translate(40,0)"><rect x="-4" y="-3" width="8" height="6" rx="2" fill="none" stroke="#F1BF00" stroke-width="1.5"/></g>
+      <g transform="translate(60,0)"><rect x="-4" y="-3" width="8" height="6" rx="2" fill="none" stroke="#F1BF00" stroke-width="1.5"/></g>
+      <line x1="-56" y1="0" x2="-44" y2="0" stroke="#F1BF00" stroke-width="1" opacity="0.6"/>
+      <line x1="-36" y1="0" x2="-24" y2="0" stroke="#F1BF00" stroke-width="1" opacity="0.6"/>
+      <line x1="-16" y1="0" x2="-4" y2="0" stroke="#F1BF00" stroke-width="1" opacity="0.6"/>
+      <line x1="4" y1="0" x2="16" y2="0" stroke="#F1BF00" stroke-width="1" opacity="0.6"/>
+      <line x1="24" y1="0" x2="36" y2="0" stroke="#F1BF00" stroke-width="1" opacity="0.6"/>
+      <line x1="44" y1="0" x2="56" y2="0" stroke="#F1BF00" stroke-width="1" opacity="0.6"/>
+      <!-- Second row -->
+      <g transform="translate(-50,16)"><rect x="-4" y="-3" width="8" height="6" rx="2" fill="none" stroke="#F1BF00" stroke-width="1.5"/></g>
+      <g transform="translate(-30,16)"><rect x="-4" y="-3" width="8" height="6" rx="2" fill="none" stroke="#F1BF00" stroke-width="1.5"/></g>
+      <g transform="translate(-10,16)"><rect x="-4" y="-3" width="8" height="6" rx="2" fill="none" stroke="#F1BF00" stroke-width="1.5"/></g>
+      <g transform="translate(10,16)"><rect x="-4" y="-3" width="8" height="6" rx="2" fill="none" stroke="#F1BF00" stroke-width="1.5"/></g>
+      <g transform="translate(30,16)"><rect x="-4" y="-3" width="8" height="6" rx="2" fill="none" stroke="#F1BF00" stroke-width="1.5"/></g>
+      <g transform="translate(50,16)"><rect x="-4" y="-3" width="8" height="6" rx="2" fill="none" stroke="#F1BF00" stroke-width="1.5"/></g>
+      <line x1="-46" y1="16" x2="-34" y2="16" stroke="#F1BF00" stroke-width="1" opacity="0.6"/>
+      <line x1="-26" y1="16" x2="-14" y2="16" stroke="#F1BF00" stroke-width="1" opacity="0.6"/>
+      <line x1="-6" y1="16" x2="6" y2="16" stroke="#F1BF00" stroke-width="1" opacity="0.6"/>
+      <line x1="14" y1="16" x2="26" y2="16" stroke="#F1BF00" stroke-width="1" opacity="0.6"/>
+      <line x1="34" y1="16" x2="46" y2="16" stroke="#F1BF00" stroke-width="1" opacity="0.6"/>
+    </g>
+  </g>
+</svg>

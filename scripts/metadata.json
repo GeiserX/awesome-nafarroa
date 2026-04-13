@@ -1,0 +1,19 @@
+{
+"anderescaray/ambulancias-navarra": {"default_branch":"main","description":null,"homepage":"","language":"HTML","license":"","stargazers_count":2,"topics":[]}
+,
+"bravojuandb/navarra-data-batch-pipeline": {"default_branch":"main","description":"Reproducible batch pipeline that standardizes Navarra's Economic Establishments Registry, converting raw CSV into a structured analytics-ready Parquet file. Non-destructive: raw data is never modified.","homepage":"","language":"Python","license":"MIT","stargazers_count":1,"topics":[]}
+,
+"civio/presupuesto-navarra": {"default_branch":"master","description":"Adaptación de DVMI para los presupuestos de Navarra","homepage":"","language":"HTML","license":"","stargazers_count":2,"topics":[]}
+,
+"geoinnova/navarra_cadastre": {"default_branch":"master","description":"Plugin para descargar el catastro de un municipio de la Comunidad Foral de Navarra (España)","homepage":"","language":"Python","license":"GPL-3.0","stargazers_count":1,"topics":["catastro","pyqgis","python","qgis","qgis-plugin"]}
+,
+"guillermodean/Megalitos": {"default_branch":"master","description":"Aplicación web de la SCN Gorosti desarrollada para la divulgación del material recogido relativo a las estaciones megalíticas de Navarra","homepage":"","language":"Handlebars","license":"","stargazers_count":1,"topics":["culture","megalith"]}
+,
+"javikalsan/covid19-navarra": {"default_branch":"master","description":"A simple ETL to visualize the impact of covid-19 in Navarra from opendata official data source.","homepage":"","language":"Python","license":"","stargazers_count":1,"topics":[]}
+,
+"juan-gamero-salinas/indoor-overheating-app-pamplona": {"default_branch":"master","description":"This is an interactive prototype developed to estimate the risk of overheating inside homes during heatwaves in Pamplona, Navarra. The goal is to help identify vulnerable households using a classification model based on real data (surveys).","homepage":"","language":"Python","license":"Apache-2.0","stargazers_count":1,"topics":[]}
+,
+"rOpenSpain/CatastRoNav": {"default_branch":"main","description":"R package to query Catastro de Navarra (Spain)","homepage":"","language":"R","license":"CC-BY-4.0","stargazers_count":2,"topics":["catastro","maps","navarra","r","r-package","r-stats","ropenspain","spain"]}
+,
+"sitna/api-sitna": {"default_branch":"master","description":"JavaScript API for georeferenced data viewing in web applications","homepage":"","language":"JavaScript","license":"BSD-2-Clause","stargazers_count":16,"topics":[]}
+}
