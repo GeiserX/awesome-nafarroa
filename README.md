@@ -88,6 +88,15 @@ For the badge (grande):
 
 <!--lint enable double-link-->
 
+## Maintainers
+
+<!--lint disable awesome-list-item-->
+
+- [@GeiserX](https://github.com/GeiserX)
+- [@david-alvarez-rosa](https://github.com/david-alvarez-rosa)
+
+<!--lint enable awesome-list-item-->
+
 ## Contribuir
 
 Las contribuciones bienvenidas. Lee las [directrices de contribución](contributing.md) antes de enviar un pull request.
