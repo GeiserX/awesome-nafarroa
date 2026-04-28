@@ -1,4 +1,4 @@
-# AGENTS.md — awesome-nafarroa
+# CLAUDE.md — awesome-nafarroa
 
 ## Propósito
 
