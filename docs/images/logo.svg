@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="470 34 82 82" width="82" height="82" role="img" aria-label="Awesome Nafarroa">
+  <!-- The keep of the Olite castle from docs/images/banner.svg, the square
+       tower with the pyramid roof left of centre, and the round tower with the
+       conical roof beside it: same rects, paths, colours and gradients (st, sd,
+       cy), in the banner's own coordinates. Changed: both towers stop at y=116
+       instead of running down to the banner's ground, and the gradient ids take
+       the aw- prefix. Dropped: the sky, the curtain wall, the glow and the town
+       silhouette. -->
+  <defs>
+    <linearGradient id="aw-st" x1="0" y1="0" x2="0" y2="200" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#c99456"/><stop offset=".6" stop-color="#dfae68"/><stop offset="1" stop-color="#f0c47e"/></linearGradient>
+    <linearGradient id="aw-sd" x1="0" y1="0" x2="0" y2="200" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#8a5a2e"/><stop offset="1" stop-color="#b37a40"/></linearGradient>
+    <linearGradient id="aw-cy" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c08a4c"/><stop offset=".4" stop-color="#e6b672"/><stop offset="1" stop-color="#8a5a2e"/></linearGradient>
+  </defs>
+  <rect x="505" y="62" width="40" height="54" fill="url(#aw-st)"/><rect x="533.8" y="62" width="11.2" height="54" fill="url(#aw-sd)"/><rect x="502" y="62" width="46" height="9" fill="url(#aw-st)"/><path d="M508.0,71h3v3h-3ZM514.0,71h3v3h-3ZM520.0,71h3v3h-3ZM526.0,71h3v3h-3ZM532.0,71h3v3h-3ZM538.0,71h3v3h-3Z" fill="#6b4524"/><path d="M504.5,62h5v-6h-5ZM513.5,62h5v-6h-5ZM522.5,62h5v-6h-5ZM531.5,62h5v-6h-5ZM540.5,62h5v-6h-5Z" fill="url(#aw-st)"/><path d="M500,54 L525,36 L550,54Z" fill="#262b3a"/><path d="M500,54 L525,36 L522,54Z" fill="#454c62"/><path d="M510.0,92v-8.4 Q510.0,78 513,77 Q516.0,78 516.0,83.6V92Z" fill="#2a1810"/><path d="M522.0,92v-8.4 Q522.0,78 525,77 Q528.0,78 528.0,83.6V92Z" fill="#2a1810"/><path d="M534.0,92v-8.4 Q534.0,78 537,77 Q540.0,78 540.0,83.6V92Z" fill="#2a1810"/>
+  <rect x="474" y="104" width="20" height="12" fill="url(#aw-cy)"/><path d="M472,105 L484,72 L496,105 Z" fill="#262b3a"/><path d="M472,105 L484,72 L482.0,105 Z" fill="#454c62"/><rect x="472" y="104" width="24" height="3" fill="#7a4f28"/>
+</svg>
