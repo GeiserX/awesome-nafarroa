@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "nafarroa",
+  "project_id": "c6f73034-045e-42c2-934f-25d1f518e186"
+}
