@@ -8,7 +8,7 @@ Repos que fueron retirados de la lista porque fueron archivados, deprecados o ya
 
 ## Eliminados / No encontrados
 
-- [Navarra-Climate-BI-System](https://github.com/Lucasfortuninu/Navarra-Climate-BI-System) - Sistema de Business Intelligence para analizar el clima en Navarra con proceso ETL, Data Warehouse en MySQL y dashboards en Grafana. Repositorio y cuenta eliminados (GitHub devuelve 404).
+- `Lucasfortuninu/Navarra-Climate-BI-System` - Sistema de Business Intelligence para analizar el clima en Navarra con proceso ETL, Data Warehouse en MySQL y dashboards en Grafana. Repositorio y cuenta eliminados (GitHub devuelve 404).
 
 ## Deprecados
 
